@@ -4,7 +4,7 @@ Hi ! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785
 FrontEnd Developer
 ------------------
 
-I love programming
+I Love Programming
 
 * ✉️  You can contact me at [mohamadnaderi8590@gmail.com](mailto:mohamadnaderi8590@gmail.com)
 
